@@ -1,6 +1,6 @@
 🎙️ **Emotion Recognition from Speech using CNN**
 
-This project builds a deep learning model to recognize human emotions (**happy, sad, angry, neutral**) from speech audio using the **RAVDESS Emotional Speech Audio Dataset**.
+This project builds a deep learning model to recognize human emotions (**happy, sad, angry, neutral**) from speech audio using the https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 📌 **Objective**
 To classify emotions from speech signals using **Mel-Frequency Cepstral Coefficients (MFCCs)** and a **Convolutional Neural Network (CNN)**.
